@@ -1,3 +1,4 @@
+-- create table
 CREATE TABLE orders(
   order_id int,
   customer_id int,
